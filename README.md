@@ -1,3 +1,11 @@
+# Strategies
+
+### I started this project from Create React App
+### I used React Context API for state management (It wasn't required to use it, we could have use states only)
+### I didn't use Router for navigating into repo details page to keep it simple
+### To display readme, I called github api to render markdown format to html
+### This project has poor error handling which we can improve later
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

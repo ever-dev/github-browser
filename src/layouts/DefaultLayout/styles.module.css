@@ -1,0 +1,18 @@
+.root {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: black;
+  color: blue;
+  padding: 0px 50px;
+}
+
+.main {
+  flex: 1;
+  background-color: #eceff1;
+}
